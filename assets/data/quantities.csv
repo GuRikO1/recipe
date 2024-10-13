@@ -1,0 +1,9 @@
+quantity_id,ingredient_id,quantity,optional,recipe_id
+0,0,"4切れ",false,0
+1,1,100g,false,0
+2,2,"200ml",false,0
+3,3,"大さじ3",false,0
+3,3,"大さじ3",false,0
+4,4,"大さじ1",false,0
+5,5,"20g",true,0
+6,6,"適量",true,0
